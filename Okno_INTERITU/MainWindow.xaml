@@ -1,0 +1,102 @@
+﻿<Window x:Class="Okno_INTERITU.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Okno_INTERITU"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1024"
+        WindowStyle="None" Background="Transparent"
+        AllowsTransparency="True" ResizeMode="NoResize"
+        MouseDown="Window_MouseDown">
+
+    <Border>
+        <Border.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="#7be9f6" Offset="0.0"/>
+                <GradientStop Color="#f083da" Offset="1"/>
+            </LinearGradientBrush>
+        </Border.Background>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Menu x:Name="menuPanel" Grid.Column="2"  Grid.Row="0" Margin="5,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Menu.Background>
+                    <SolidColorBrush Color="Transparent"/>
+                </Menu.Background>
+
+                <MenuItem Header="Plik" Margin="5,2,5,2" Click="Rozbudowa_Click"/>
+                <MenuItem Header="Narzędzia" Margin="5,2,5,2"  Click="Rozbudowa_Click"/>
+                <MenuItem Header="O programie" Margin="5,2,5,2" Click="oProgramie_Click"/>
+                <MenuItem Header="Wyjście" Margin="5,2,5,2" Click="Wyjscie_Click"/>
+            </Menu>
+
+            <StackPanel x:Name="gridPanelSterujacy" Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" Grid.ColumnSpan="2">
+
+                <RadioButton x:Name="rbtnHome" 
+                             Content="Home"
+                             Foreground="#D11997"
+                             FontSize="25"
+                             Height="130"
+                             FontFamily="Comic Sans MS, Verdana"
+                             FontWeight="Bold"
+                             Style="{StaticResource MenuButtonStyle}"
+                             Click="Home_Click"/>
+
+                <RadioButton x:Name="rbtnaktualnaListaGraczy" 
+                             Content="Aktualna lista graczy"
+                             Foreground="#EB1AA4"
+                             FontSize="25"
+                             Height="130"
+                             FontFamily="Comic Sans MS, Verdana"
+                             FontWeight="Bold"
+                             Style="{StaticResource MenuButtonStyle}"
+                             Click="aktualnaListaGraczy_Click"/>
+
+                <RadioButton x:Name="rbtnRozliczenia" 
+                             Content="Rozliczenie graczy"
+                             Foreground="#FA00AF"
+                             FontSize="25"                      
+                             Height="130"
+                             FontFamily="Comic Sans MS, Verdana"
+                             FontWeight="Bold"
+                             Style="{StaticResource MenuButtonStyle}"
+                             Click="Rozbudowa_Click"/>
+                
+                <RadioButton x:Name="rbtnArchiwumGraczy" 
+                             Content="Archiwum"
+                             Foreground="#EB36AE"
+                             FontSize="25"
+                             Height="130"
+                             FontFamily="Comic Sans MS, Verdana"
+                             FontWeight="Bold"
+                             Style="{StaticResource MenuButtonStyle}"
+                             Click="Rozbudowa_Click"/>
+               
+                <RadioButton x:Name="rbtnInformacje" 
+                             Content="Informacje"
+                             Foreground="#FA64C3"
+                             FontSize="25"
+                             Height="85"
+                             FontFamily="Comic Sans MS, Verdana"
+                             FontWeight="Bold"
+                             Style="{StaticResource MenuButtonStyle}"
+                             Click="Rozbudowa_Click"/>
+            </StackPanel>
+
+            <Frame x:Name="PanelSterowany" NavigationUIVisibility="Hidden" Grid.Column="2" Grid.Row="1" Grid.RowSpan="2"/>
+
+        </Grid>
+    </Border>
+</Window>
