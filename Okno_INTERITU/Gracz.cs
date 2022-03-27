@@ -1,5 +1,6 @@
 ﻿namespace Okno_INTERITU
 {
+
     class Gracz
     {
         public string Nick { get; set; }
@@ -17,7 +18,7 @@
 
         public override string ToString()
         {
-            return $"{Nick} {klasaPostaci} {tytulGildyjny}";
+            return $"{Nick} - {klasaPostaci} - {tytulGildyjny}";
         }
 
 

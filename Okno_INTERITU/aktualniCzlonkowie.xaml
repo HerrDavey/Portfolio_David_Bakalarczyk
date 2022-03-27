@@ -8,19 +8,87 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="aktualniCzlonkowie" Background="Transparent">
 
-    <Grid>
-        <ListView>
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <ListView x:Name="lstGraczy_aktualnych" Grid.Row="1" MouseDoubleClick="lstGraczy_aktualnych_MouseDoubleClick">
             <ListView.View>
                 <GridView>
                     <GridView.Columns>
-                        <GridViewColumn Header="Nick Gracza" Width="266.6"/>
-                        <GridViewColumn Header="Klasa postaci" Width="266.6"/>
-                        <GridViewColumn Header="Tytuł gildyjny" Width="266.6"/>
-                        <GridViewColumn Width="0"/>
+                        <GridViewColumn Header="Nick Gracza" Width="266.6" DisplayMemberBinding="{Binding Nick}"/>
+                        
+                        <GridViewColumn Header="Klasa postaci" Width="266.6">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding klasaPostaci}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        
+                        <GridViewColumn Header="Tytuł gildyjny" Width="266.6" DisplayMemberBinding="{Binding tytulGildyjny}"/>
+                        <GridViewColumn>
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <ComboBox>
+                                        
+                                    </ComboBox>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
                     </GridView.Columns>
-
                 </GridView>
             </ListView.View>
         </ListView>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btnDodaj_Gracza" 
+                    Content="Dodaj" 
+                    Grid.Column="0"
+                    FontSize="18"
+                    FontWeight="SemiBold" 
+                    Margin="50,5" Click="btnDodaj_Gracza_Click"/>
+            
+            
+            <Button x:Name="btnUsun_Gracza" 
+                    Content="Usuń" 
+                    Grid.Column="1"
+                    FontSize="18"
+                    FontWeight="SemiBold"
+                    Margin="50,5" Click="btnUsun_Gracza_Click"
+                    />
+        </Grid>
+
+        <Grid Grid.Row="0" Margin="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Label Content="Fitruj wg nazwy gracza:" 
+                   Grid.Column="0" 
+                   VerticalAlignment="Center" 
+                   HorizontalAlignment="Center"/>
+            
+            <TextBox x:Name="txtFilter" 
+                     Text="" Grid.Column="1" 
+                     Margin="5"
+                     VerticalAlignment="Center"
+                     HorizontalAlignment="Stretch"
+                     TextChanged="txtFilter_TextChanged"/>
+        </Grid>
+
+
+
+
     </Grid>
 </Page>

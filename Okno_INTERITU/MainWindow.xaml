@@ -36,7 +36,10 @@
                     <SolidColorBrush Color="Transparent"/>
                 </Menu.Background>
 
-                <MenuItem Header="Plik" Margin="5,2,5,2" Click="Rozbudowa_Click"/>
+                <MenuItem Header="Plik" Margin="5,2,5,2" Click="Rozbudowa_Click" Background="Transparent">
+                    <MenuItem Header="Zapisz"   Click="Rozbudowa_Click"/>
+                    <MenuItem Header="Wczytaj"  Click="Rozbudowa_Click"/>
+                </MenuItem>
                 <MenuItem Header="Narzędzia" Margin="5,2,5,2"  Click="Rozbudowa_Click"/>
                 <MenuItem Header="O programie" Margin="5,2,5,2" Click="oProgramie_Click"/>
                 <MenuItem Header="Wyjście" Margin="5,2,5,2" Click="Wyjscie_Click"/>

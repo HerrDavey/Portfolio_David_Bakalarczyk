@@ -33,7 +33,8 @@ namespace Okno_INTERITU
             sb.AppendLine("Autor programu: David Bakalarczyk");
             sb.AppendLine("Cel powstania: Ułatwienie rozliczeń i organizacji członków gildii.");
             sb.AppendLine("Data powstania: 26.03.2022");
-            sb.AppendLine("Wersja 0.0.1 PL");
+            sb.AppendLine("Data aktualizacji: 27.03.2022");
+            sb.AppendLine("Wersja 0.0.2 PL");
             MessageBox.Show(sb.ToString());
         }
 
@@ -64,7 +65,7 @@ namespace Okno_INTERITU
 
         private void Rozbudowa_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Praca nad funkcją w toku x_x Przepraszamy i życzymy cierpliwości!");
+            MessageBox.Show("Praca nad funkcją w toku x_x! Przepraszamy i życzymy cierpliwości!");
         }
     }
 }

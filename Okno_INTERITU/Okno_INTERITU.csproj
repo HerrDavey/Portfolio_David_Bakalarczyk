@@ -58,6 +58,9 @@
     <Compile Include="Archiwum.xaml.cs">
       <DependentUpon>Archiwum.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DodajGracza.xaml.cs">
+      <DependentUpon>DodajGracza.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Informacje.xaml.cs">
       <DependentUpon>Informacje.xaml</DependentUpon>
     </Compile>
@@ -69,6 +72,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Archiwum.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DodajGracza.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
