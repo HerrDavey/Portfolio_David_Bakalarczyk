@@ -20,7 +20,7 @@
                 <GridView>
                     <GridView.Columns>
                         <GridViewColumn Header="Nick Gracza" Width="266.6" DisplayMemberBinding="{Binding Nick}"/>
-                        
+
                         <GridViewColumn Header="Klasa postaci" Width="266.6">
                             <GridViewColumn.CellTemplate>
                                 <DataTemplate>
@@ -28,17 +28,7 @@
                                 </DataTemplate>
                             </GridViewColumn.CellTemplate>
                         </GridViewColumn>
-                        
                         <GridViewColumn Header="Tytuł gildyjny" Width="266.6" DisplayMemberBinding="{Binding tytulGildyjny}"/>
-                        <GridViewColumn>
-                            <GridViewColumn.CellTemplate>
-                                <DataTemplate>
-                                    <ComboBox>
-                                        
-                                    </ComboBox>
-                                </DataTemplate>
-                            </GridViewColumn.CellTemplate>
-                        </GridViewColumn>
                     </GridView.Columns>
                 </GridView>
             </ListView.View>

@@ -44,13 +44,26 @@
                  Grid.Row="0" Grid.Column="1" 
                  Margin="10,15"/>
 
-        <TextBox Text="{Binding klasaPostaci}" 
-                 Grid.Row="1" Grid.Column="1" 
-                 Margin="10,15"/>
+        <ComboBox Text="{Binding klasaPostaci}" Grid.Row="1" Grid.Column="1" Margin="10,15">
+            <ComboBoxItem Content="Wojownik"/>
+            <ComboBoxItem Content="Łucznik"/>
+            <ComboBoxItem Content="RMC"/>
+            <ComboBoxItem Content="Mag"/>
+            <ComboBoxItem Content="Kapłan"/>
+            <ComboBoxItem Content="Zaklinacz"/>
+        </ComboBox>
 
-        <TextBox Text="{Binding tytulGildyjny}" 
-                 Grid.Row="2" Grid.Column="1" 
-                 Margin="10,15"/>
+        <ComboBox Text="{Binding tytulGildyjny}"  Grid.Row="2" Grid.Column="1" Margin="10,15">
+            <ComboBoxItem Content="Mistrz Gildii" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="Zastępca Mistrza Gildii" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="Książe" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="Markiz" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="Hrabia" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="Vice-Hrabia" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="Baron" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="Członek Gildii" HorizontalAlignment="Center"/>
+            <ComboBoxItem Content="NOWA OSOBA" HorizontalAlignment="Center"/>
+        </ComboBox>
 
     </Grid>
 </Window>
