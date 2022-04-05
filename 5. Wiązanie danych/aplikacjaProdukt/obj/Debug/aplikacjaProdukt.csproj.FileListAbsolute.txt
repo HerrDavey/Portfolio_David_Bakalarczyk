@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\bin\Debug\aplikacjaProdukt.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\bin\Debug\aplikacjaProdukt.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\bin\Debug\aplikacjaProdukt.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\aplikacjaProdukt\obj\Debug\aplikacjaProdukt.pdb

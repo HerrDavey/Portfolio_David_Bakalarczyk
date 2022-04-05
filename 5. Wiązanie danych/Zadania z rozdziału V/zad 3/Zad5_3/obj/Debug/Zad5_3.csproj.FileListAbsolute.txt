@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\bin\Debug\Zad5_3.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\bin\Debug\Zad5_3.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\bin\Debug\Zad5_3.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\V. Wiązanie danych\Zadania z rozdziału V\zad 3\Zad5_3\obj\Debug\Zad5_3.pdb

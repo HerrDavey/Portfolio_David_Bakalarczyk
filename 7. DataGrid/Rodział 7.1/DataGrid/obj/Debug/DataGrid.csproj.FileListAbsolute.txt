@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.1\DataGrid\obj\Debug\DataGrid.pdb

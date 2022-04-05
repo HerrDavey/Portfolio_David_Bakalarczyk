@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\bin\Debug\produktJednookienny.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\bin\Debug\produktJednookienny.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\bin\Debug\produktJednookienny.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VI. Wiązanie kolekcji danych\Zad 6.3 - aplikacja Produkt\produktJednookienny\obj\Debug\produktJednookienny.pdb

@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\bin\Debug\wyzwalacze.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\bin\Debug\wyzwalacze.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\bin\Debug\wyzwalacze.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\wyzwalacze\obj\Debug\wyzwalacze.pdb

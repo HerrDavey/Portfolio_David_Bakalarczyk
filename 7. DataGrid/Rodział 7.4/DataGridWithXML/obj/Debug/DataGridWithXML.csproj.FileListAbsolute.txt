@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\bin\Debug\DataGridWithXML.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\bin\Debug\DataGridWithXML.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\bin\Debug\DataGridWithXML.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Rodział 7.4\DataGridWithXML\obj\Debug\DataGridWithXML.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="aplikacjaProdukt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:aplikacjaProdukt"
+        mc:Ignorable="d"
+        Title="Test wiązania danych" Height="200" Width="550">
+
+    <StackPanel>
+        <Slider x:Name="rozmiarTekstu" Minimum="10" Value="15" Maximum="45"/>
+        <TextBlock FontSize="{Binding Path=Value, ElementName=rozmiarTekstu}">
+            Testujemy wiązanie danych!
+        </TextBlock>
+    </StackPanel>
+
+    
+</Window>

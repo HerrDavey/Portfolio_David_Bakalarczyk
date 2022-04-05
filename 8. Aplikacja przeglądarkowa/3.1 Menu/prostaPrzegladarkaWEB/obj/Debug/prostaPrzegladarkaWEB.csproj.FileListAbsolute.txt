@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\bin\Debug\prostaPrzegladarkaWEB.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\bin\Debug\prostaPrzegladarkaWEB.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\bin\Debug\prostaPrzegladarkaWEB.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VIII. Aplikacja przeglądarkowa\3.1 Menu\prostaPrzegladarkaWEB\obj\Debug\prostaPrzegladarkaWEB.csproj.AssemblyReference.cache

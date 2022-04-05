@@ -1,0 +1,34 @@
+﻿<Window x:Class="liczbaSztukProdukt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:liczbaSztukProdukt"
+        mc:Ignorable="d"
+        Title="ulepszenieLiczbySztuk_Produkt" Height="450" Width="800">
+
+    <Grid Margin="10">
+        <DataGrid Name="gridProdukty" AutoGenerateColumns="False" AlternatingRowBackground="LightBlue" GridLinesVisibility="None">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Symbol" Binding="{Binding Symbol}"/>
+                <DataGridTextColumn Header="Nazwa" Binding="{Binding Nazwa}"/>
+
+                <DataGridTextColumn Header="Liczba sztuk" Binding="{Binding LiczbaSztuk}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Right"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Path=LiczbaSztuk}" Value="0">
+                                    <Setter Property="Foreground" Value="Red"/>
+                                    <Setter Property="FontWeight" Value="Bold"/>
+                                    <Setter Property="FontWeight" Value="Bold"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Magazy" Binding="{Binding Magazyn}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

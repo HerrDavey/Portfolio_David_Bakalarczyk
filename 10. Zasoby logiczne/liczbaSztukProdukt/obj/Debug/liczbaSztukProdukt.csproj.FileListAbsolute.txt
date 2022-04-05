@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\bin\Debug\liczbaSztukProdukt.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\bin\Debug\liczbaSztukProdukt.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\bin\Debug\liczbaSztukProdukt.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\10. Zasoby logiczne\liczbaSztukProdukt\obj\Debug\liczbaSztukProdukt.pdb

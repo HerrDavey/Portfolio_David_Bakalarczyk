@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\bin\Debug\ExpanderTest.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\bin\Debug\ExpanderTest.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\bin\Debug\ExpanderTest.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\VII. DataGrid\Expander\ExpanderTest\obj\Debug\ExpanderTest.pdb

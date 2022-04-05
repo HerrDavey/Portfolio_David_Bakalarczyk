@@ -1,0 +1,46 @@
+﻿<Window x:Class="zasiegZasobu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zasiegZasobu"
+        mc:Ignorable="d"
+        Title="Testowanie zasobu ver 2.0" Height="200" Width="500">
+
+
+    <Window.Resources>
+        <LinearGradientBrush x:Key="tloPrzyciskow" StartPoint="0.5,0" EndPoint="0.5,1">
+            <GradientStop Color="White" Offset="0"/>
+            <GradientStop Color="LightCoral" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+    
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <WrapPanel Grid.Row="0" Grid.Column="0">
+            <WrapPanel.Resources>
+                <LinearGradientBrush x:Key="tloPrzyciskow" StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </WrapPanel.Resources>
+
+            <Button Content="Potwierdź" Margin="10" Padding="10" Background="{StaticResource tloPrzyciskow}"/>
+            <Button Content="Drukuj" Margin="10" Padding="10" Background="{StaticResource tloPrzyciskow}"/>
+            <Button Content="Zapisz" Margin="10" Padding="10" Background="{StaticResource tloPrzyciskow}"/>
+            <Button Content="Anuluj" Margin="10" Padding="10" Background="{StaticResource tloPrzyciskow}"/>
+            <Button Content="Powrót" Margin="10" Padding="10" Background="{StaticResource tloPrzyciskow}"/>
+        </WrapPanel>
+        <Button Content="Nowy przycisk" Margin="10" Padding="10" Grid.Column="0" Grid.Row="1" Background="{StaticResource tloPrzyciskow}"/>
+    </Grid>
+
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\bin\Debug\wprowadzenieDoXAML.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\bin\Debug\wprowadzenieDoXAML.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\bin\Debug\wprowadzenieDoXAML.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\wprowadzenieDoXAML\obj\Debug\wprowadzenieDoXAML.pdb

@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\bin\Debug\podstawoweKontrolki.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\bin\Debug\podstawoweKontrolki.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\bin\Debug\podstawoweKontrolki.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\III. Podstawowe  kontrolki\podstawoweKontrolki\obj\Debug\podstawoweKontrolki.pdb

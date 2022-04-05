@@ -1,0 +1,28 @@
+﻿<Window x:Class="TreeView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TreeView"
+        mc:Ignorable="d"
+        Title="Test kontrolki TreeView zamiast Menu" Height="450" Width="800">
+    
+    <Grid>
+
+        <TreeView>
+            <TreeViewItem Header="Spis treści" IsExpanded="True">
+                <TreeViewItem Header="Wstęp"/>
+                <TreeViewItem Header="Rozdział I">
+                    <TreeViewItem Header="Podrozdział 1.1"/>
+                    <TreeViewItem Header="Podrozdział 1.2"/>
+                </TreeViewItem>
+                <TreeViewItem Header="Rozdział II">
+                    <TreeViewItem Header="Podrozdział 2.1"/>
+                    <TreeViewItem Header="Podrozdział 2.2"/>
+                </TreeViewItem>
+                <TreeViewItem Header="Zakończenie"/>
+            </TreeViewItem>
+        </TreeView>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\bin\Debug\appOdtwarzacz.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\bin\Debug\appOdtwarzacz.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\bin\Debug\appOdtwarzacz.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\9. Aplikacja odtwarzacz audio\appOdtwarzacz\obj\Debug\appOdtwarzacz.pdb

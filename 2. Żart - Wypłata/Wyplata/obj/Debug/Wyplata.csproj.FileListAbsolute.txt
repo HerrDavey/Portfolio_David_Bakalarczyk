@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\bin\Debug\Wyplata.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\bin\Debug\Wyplata.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\bin\Debug\Wyplata.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\Wprowadzenie do XAML\II. Żart - Wypłata\Wyplata\obj\Debug\Wyplata.pdb

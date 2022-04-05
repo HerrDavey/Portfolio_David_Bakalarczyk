@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+
+<ListaProduktow>
+	
+	<Produkt>
+		<Symbol>01-11</Symbol>
+		<Nazwa>Ołówek</Nazwa>
+		<LiczbaSztuk>8</LiczbaSztuk>
+		<Magazyn>M1 - Kraków</Magazyn>
+	</Produkt>
+
+	<Produkt>
+		<Symbol>PW-20</Symbol>
+		<Nazwa>Pióro wieczne</Nazwa>
+		<LiczbaSztuk>75</LiczbaSztuk>
+		<Magazyn>M2 - Kraków</Magazyn>
+	</Produkt>
+
+	<Produkt>
+		<Symbol>DZ-10</Symbol>
+		<Nazwa>Długopis żelowy</Nazwa>
+		<LiczbaSztuk>1121</LiczbaSztuk>
+		<Magazyn>M2 - Kraków</Magazyn>
+	</Produkt>
+
+	<Produkt>
+		<Symbol>DZ-12</Symbol>
+		<Nazwa>Długopis kulkowy</Nazwa>
+		<LiczbaSztuk>280</LiczbaSztuk>
+		<Magazyn>M2 - Kraków</Magazyn>
+	</Produkt>
+	
+</ListaProduktow>
