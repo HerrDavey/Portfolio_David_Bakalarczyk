@@ -1,0 +1,33 @@
+﻿<Window x:Class="mechanizmy_walidacji.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mechanizmy_walidacji"
+        mc:Ignorable="d"
+        Language="pl-PL"
+        Title="Walidacja danych" Height="100" Width="400">
+
+    <Window.DataContext>
+        <local:Towar Nazwa="Ołówek" Cena="21"/>
+    </Window.DataContext>
+
+    <WrapPanel>
+        <WrapPanel.Resources>
+            <Style TargetType="TextBlock">
+                <Style.Triggers>
+                    <Trigger Property="Validation.HasError" Value="True">
+                        <Setter Property="ToolTip" Value="{Binding RelativeSource={x:Static RelativeSource.Self}, Path=(Validation.Errors).CurrentItem.ErrorContent}"/>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+        </WrapPanel.Resources>
+        
+        <Label Content="Nazwa:"/>
+        <TextBox Margin="5" Text="{Binding Nazwa}" Width="100"/>
+        <Label Content="Cena:"/>
+        <TextBox Margin="5" Text="{Binding Cena, UpdateSourceTrigger=PropertyChanged, StringFormat={} {0:F2}}" Width="100"/>
+        
+    </WrapPanel>
+
+</Window>

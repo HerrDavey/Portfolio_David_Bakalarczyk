@@ -1,0 +1,16 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\bin\Debug\value_converters.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\bin\Debug\value_converters.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\bin\Debug\value_converters.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\value_converters\obj\Debug\value_converters.pdb

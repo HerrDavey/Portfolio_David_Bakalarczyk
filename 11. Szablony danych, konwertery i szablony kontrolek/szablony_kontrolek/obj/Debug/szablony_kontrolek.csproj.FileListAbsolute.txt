@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\bin\Debug\szablony_kontrolek.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\bin\Debug\szablony_kontrolek.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\bin\Debug\szablony_kontrolek.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\szablony_kontrolek\obj\Debug\szablony_kontrolek.pdb
