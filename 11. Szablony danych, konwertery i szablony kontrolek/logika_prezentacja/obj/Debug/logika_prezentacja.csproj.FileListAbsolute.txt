@@ -1,0 +1,16 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\bin\Debug\logika_prezentacja.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\bin\Debug\logika_prezentacja.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\bin\Debug\logika_prezentacja.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\logika_prezentacja.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\11. Szablony danych, konwertery i szablony kontrolek\logika_prezentacja\obj\Debug\GeneratedInternalTypeHelper.g.cs

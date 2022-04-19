@@ -1,0 +1,16 @@
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\bin\Debug\mechanizmy_walidacji.exe.config
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\bin\Debug\mechanizmy_walidacji.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\bin\Debug\mechanizmy_walidacji.pdb
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\App.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji_MarkupCompile.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji_MarkupCompile.lref
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\MainWindow.baml
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji.g.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji.Properties.Resources.resources
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji.exe
+C:\Users\dawid\Desktop\C#\Nauka własna\Wprowadzenie do XAML\C# - WPF with XAML\12. Walidacja Danych\mechanizmy_walidacji\obj\Debug\mechanizmy_walidacji.pdb
